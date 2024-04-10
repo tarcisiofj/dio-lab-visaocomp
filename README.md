@@ -14,4 +14,4 @@ Repositório criado para atender o ítem Trabalhando com Visão Computacional.
 ## Screenshots
 ![figura 1. Cupon Fiscal](screenshots/cupomfiscal2.jpg)
 ![figura 2 Cupon Fiscal](screenshots/cupomfiscal3.jpg)
-![figura 3 Cupon Fiscal](screenshots/screenshot01.jpg)
+![figura 3 Cupon Fiscal](screenshots/screenshot01.png)
